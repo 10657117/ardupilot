@@ -126,3 +126,4 @@ void Copter::set_motor_emergency_stop(bool b)
         Log_Write_Event(DATA_MOTORS_EMERGENCY_STOP_CLEARED);
     }
 }
+//test
